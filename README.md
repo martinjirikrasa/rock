@@ -1,7 +1,5 @@
 ### rock.py
 
-Since i found out my weather program wasnt long enough, so i though what else can i programm and i a made a rock, paper, scissors game in terminal.
-
 Rock, paper, scissors:
 Rules:
 1. if both players make the same symbol, its a tie
